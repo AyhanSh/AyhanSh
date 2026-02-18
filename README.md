@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayhanshahbazov@gmail.com**
 
-- 📄 Know about my experiences [](https://www.linkedin.com/in/ayxanshahbazov/)
+- 📄 Know about my experiences ![](https://www.linkedin.com/in/ayxanshahbazov/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
